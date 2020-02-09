@@ -38,7 +38,7 @@ jsproxy_config({
       label: '',
       hidden: true,
       lines: {
-        'node-cfworker-2.etherdream.com': 1,
+        'ray.zjqzjq.workers.dev': 1,
       }
     }
   },
